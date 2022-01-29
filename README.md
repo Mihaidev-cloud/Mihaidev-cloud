@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there👋
 
+
+### My name is Mihai!
+
+### I create websites as projects, I'm a linux, windows, macOS user
 <!--
 **Mihaidev-cloud/Mihaidev-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
