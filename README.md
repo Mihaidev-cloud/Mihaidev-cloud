@@ -1,35 +1,13 @@
-### Hi there👋
+###  Hi my name is Mihaidev-Cloud
+#### Welcome on my profile!
+I'm a simply guy which is got skill at web-development
+Soon like on september , I will learn even more languages such as c++ and more!
 
+![mihaidev-cloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihaidev-cloud&theme=dark&show_icons=true)
 
-### My name is Mihai!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaidev-cloud&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### I create websites as projects, I'm a linux, windows, macOS user
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mihaidev-cloud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mihaidev.xyz/)  
 
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-- 🔭 I’m currently working on Websites
-- 🌱 I’m currently learning php,c#,python,c++
-- 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with websites
-- 💬 Ask me about anything based on IT
-- 📫 How to reach me: contact me on contact@mihaidev-cloud.tk
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm romanian
-
-
-[!Mihaidev-cloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mihaidev-cloud
-)](https://github.com/Mihaidev-cloud/github-readme-stats)
-
-<!--
-**Mihaidev-cloud/Mihaidev-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
