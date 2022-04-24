@@ -21,7 +21,7 @@
   <img src="https://profile-counter.glitch.me/9P9/count.svg" />
 </p>
 
-[![mihaidev-cloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihaidev-cloud&theme=dark&show_icons=true)
+![mihaidev-cloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihaidev-cloud&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaidev-cloud&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
