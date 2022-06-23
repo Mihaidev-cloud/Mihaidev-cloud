@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/mihaitzzy" target="blank"><img src="https://img.shields.io/twitter/follow/mihaitzzy?logo=twitter&style=for-the-badge" alt="mihaitzzy" /></a> </p>
 
 - Check my secondary website! [Mihaidev-cloud.rest](https://mihaidev-cloud.rest/)
-
+- Another one. [Mihai.rest](https://mihai.rest/)
 - Don't forget to check the main website too! [Mihaidev.xyz](https://mihaidev.xyz/)
 
 <h3 align="left">Connect with me:</h3>
