@@ -1,5 +1,2 @@
 # 💫 About Me:
-Hello, i'm Mihai I live In Bucharest, Romania passionate of linux and servers.
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/662011571358400534)](https://discord.com/users/662011571358400534)
+Hello, i'm Michael I live In Bucharest, Romania , obssesive man with computers in his room.
