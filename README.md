@@ -1,2 +1,2 @@
 # 💫 About Me:
-Hello, i'm Michael I live In Bucharest, Romania , obssesive man with computers in his room.
+Hello, i'm Michael a silly guy
